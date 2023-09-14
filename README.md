@@ -2,7 +2,7 @@
 
 This is a simple Hello World program done with Kotlin that prints "Hello World" to the console. This program was created with the purpose of verifying that the IDE and programming language were correctly installed to the computer, and also to create a basic introduction to the programming language.
 
-You can find a small demonstration of this program here: [Software Demo Video](http://youtube.link.goes.here)
+You can find a small demonstration of this program here: [Software Demo Video](https://youtu.be/gAfhs8Y5jfY)
 
 # Development Environment
 
